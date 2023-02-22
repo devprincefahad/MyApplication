@@ -11,5 +11,7 @@ class HomeScreen : AppCompatActivity() {
         setContentView(R.layout.activity_home_screen)
         AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO)
 
+        println("Added image")
+
     }
 }
