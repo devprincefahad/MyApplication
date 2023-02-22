@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {
 
         AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO )
 
+        println("This is a second commit")
+
     }
 }
