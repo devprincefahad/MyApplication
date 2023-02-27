@@ -1,0 +1,2 @@
+# MyApplication
+Tried Git commands
